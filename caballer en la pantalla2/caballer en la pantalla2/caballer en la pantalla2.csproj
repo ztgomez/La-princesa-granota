@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>caballer_en_la_pantalla2</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="IMG\Captura de pantalla 2024-12-12 194005.png" />
+      <None Remove="IMG\50f160cdd21db00bbbbef46d9318f538.jpg" />
+      <None Update="IMG\E8nQXhLWEAIravL-removebg-preview.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="IMG\messi.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="IMG\balon.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="caballer.cs" />
+      <Compile Remove="r.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Heirloom.Desktop" Version="1.0.2-beta" />
+    </ItemGroup>
+
+</Project>

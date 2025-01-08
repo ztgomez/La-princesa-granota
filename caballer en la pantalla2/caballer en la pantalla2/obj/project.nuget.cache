@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GbO1DY/Suk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrzek\\DawProgramacio\\Nueva carpeta\\caballer en la pantalla2\\caballer en la pantalla2\\caballer en la pantalla2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrzek\\.nuget\\packages\\heirloom.core\\1.0.2-beta\\heirloom.core.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\mrzek\\.nuget\\packages\\heirloom.desktop\\1.0.2-beta\\heirloom.desktop.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\mrzek\\.nuget\\packages\\heirloom.miniaudio\\1.0.2-beta\\heirloom.miniaudio.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\mrzek\\.nuget\\packages\\heirloom.opengles\\1.0.2-beta\\heirloom.opengles.1.0.2-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,55 @@
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.exe
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.deps.json
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.runtimeconfig.json
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.pdb
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.Core.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.Desktop.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.MiniAudio.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.OpenGLES.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw3.so
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw3.dylib
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\linux-x64\native\libminiaudio.so
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\osx-x64\native\libminiaudio.dylib
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\win-x64\native\miniaudio.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.csproj.AssemblyReference.cache
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.AssemblyInfoInputs.cache
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.AssemblyInfo.cs
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.csproj.CoreCompileInputs.cache
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer.D3779128.Up2Date
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\refint\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.pdb
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.genruntimeconfig.cache
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\ref\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\IMG\E8nQXhLWEAIravL-removebg-preview.png
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.csproj.AssemblyReference.cache
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.AssemblyInfoInputs.cache
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.AssemblyInfo.cs
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.csproj.CoreCompileInputs.cache
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\refint\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.pdb
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.exe
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.deps.json
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.runtimeconfig.json
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\caballer en la pantalla2.pdb
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.Core.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.Desktop.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.MiniAudio.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\Heirloom.OpenGLES.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw3.so
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw3.dylib
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\linux-x64\native\libminiaudio.so
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\osx-x64\native\libminiaudio.dylib
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\runtimes\win-x64\native\miniaudio.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer.D3779128.Up2Date
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\caballer en la pantalla2.genruntimeconfig.cache
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\obj\Debug\net8.0\ref\caballer en la pantalla2.dll
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\IMG\messi.png
+C:\Users\mrzek\DawProgramacio\Nueva carpeta\caballer en la pantalla2\caballer en la pantalla2\bin\Debug\net8.0\IMG\balon.png
